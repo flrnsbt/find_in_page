@@ -68,7 +68,7 @@ file is `example/lib/migrating_from_substring_highlight.dart` and it passes
 
 ```dart
 import 'package:find_in_page/find_in_page.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 void main() => runApp(const MaterialApp(home: TrackSearchPage()));
 
